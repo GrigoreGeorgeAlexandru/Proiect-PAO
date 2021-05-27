@@ -1,0 +1,47 @@
+Facultatea de Matematică și Informatică are profilurile:
+Informatica cu grupele:
+231 cu studentii:
+Popescu Andrei  studiaza materiile:
+Programare avansata pe obiecte predata de profesorii:
+Popescu George la care au nota 7
+Algoritmi avansati predata de profesorii:
+Ionescu Maria la care au nota 8
+Ionescu Tudor  studiaza materiile:
+Programare avansata pe obiecte predata de profesorii:
+Popescu George la care au nota 6
+Algoritmi avansati predata de profesorii:
+Ionescu Maria la care au nota 9
+232 cu studentii:
+Ionescu Roxana  studiaza materiile:
+Programare avansata pe obiecte predata de profesorii:
+Popescu George la care au nota 8
+Algoritmi avansati predata de profesorii:
+Ionescu Maria la care au nota 8
+Ionescu Ioana  studiaza materiile:
+Programare avansata pe obiecte predata de profesorii:
+Popescu George la care au nota 9
+Algoritmi avansati predata de profesorii:
+Ionescu Maria la care au nota 10
+Matematica cu grupele:
+241 cu studentii:
+Ana Maria  studiaza materiile:
+Programare avansata pe obiecte predata de profesorii:
+Popescu George la care au nota 10
+Algoritmi avansati predata de profesorii:
+Ionescu Maria la care au nota 10
+George Stefan  studiaza materiile:
+Programare avansata pe obiecte predata de profesorii:
+Popescu George la care au nota 7
+Algoritmi avansati predata de profesorii:
+Ionescu Maria la care au nota 5
+242 cu studentii:
+Mihai Tudor  studiaza materiile:
+Programare avansata pe obiecte predata de profesorii:
+Popescu George la care au nota 5
+Algoritmi avansati predata de profesorii:
+Ionescu Maria la care au nota 6
+Maria Alexandru  studiaza materiile:
+Programare avansata pe obiecte predata de profesorii:
+Popescu George la care au nota 5
+Algoritmi avansati predata de profesorii:
+Ionescu Maria la care au nota 5
